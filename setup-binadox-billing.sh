@@ -81,6 +81,7 @@ pubsub.topics.list,\
 pubsub.topics.update,\
 storage.buckets.get,\
 storage.buckets.list,\
+compute.instances.stop,\
 storage.buckets.update"
 
 if [[ "${ROLE_DESTINATION}" == "org" ]]; then
